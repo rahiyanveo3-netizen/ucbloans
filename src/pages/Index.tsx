@@ -72,7 +72,7 @@ export default function Index() {
           {tile(Globe, "অফিসিয়াল সাইট", "bg-sky-600", () => window.open("https://www.ucb.com.bd", "_blank"))}
           {tile(Bell, "নোটিফিকেশন", "bg-amber-500", () => setModal("notification"))}
           {tile(Info, "সম্পর্কে", "bg-rose-500", () => window.open("https://www.ucb.com.bd/banking/retail-banking/personal-loan", "_blank"))}
-          {tile(MessageCircle, "যোগাযোগ", "bg-emerald-500", () => window.open("https://nagad.dollarx.top/about/", "_blank"))}
+          {tile(MessageCircle, "যোগাযোগ", "bg-emerald-500", () => window.open("https://bdt.dollarx.top/about/", "_blank"))}
         </div>
       </section>
 
